@@ -40,6 +40,7 @@ Plugin 'christoomey/vim-tmux-navigator' " seamless vim split/tmux navigation
 Plugin 'easymotion/vim-easymotion' " better navigation by motions
 Plugin 'ryanoasis/vim-devicons' " fancy glyphs for some other plugins
 Plugin 'mhinz/vim-startify' " nice startup screen
+Plugin 'flazz/vim-colorschemes' " one color scheme plugin to rule them all
 
 call vundle#end() " place all plugin declarations before this line
 
